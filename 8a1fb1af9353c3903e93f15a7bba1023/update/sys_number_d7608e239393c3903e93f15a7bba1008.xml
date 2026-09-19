@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_2059119_techwi_0_device_request">x_2059119_techwi_0_device_request</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>DR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-19 08:56:12</sys_created_on>
+        <sys_id>d7608e239393c3903e93f15a7bba1008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DR</sys_name>
+        <sys_package display_value="Techwithvamsi" source="x_2059119_techwi_0">8a1fb1af9353c3903e93f15a7bba1023</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwithvamsi">8a1fb1af9353c3903e93f15a7bba1023</sys_scope>
+        <sys_update_name>sys_number_d7608e239393c3903e93f15a7bba1008</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-19 08:56:12</sys_updated_on>
+    </sys_number>
+</record_update>

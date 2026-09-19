@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Allow read for records in x_2059119_techwi_0_device_request, for users with role x_2059119_techwi_0.device_management.</description>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_2059119_techwi_0_device_request</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-19 08:56:20</sys_created_on>
+        <sys_id>1d7042639393c3903e93f15a7bba1046</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_2059119_techwi_0_device_request</sys_name>
+        <sys_package display_value="Techwithvamsi" source="x_2059119_techwi_0">8a1fb1af9353c3903e93f15a7bba1023</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwithvamsi">8a1fb1af9353c3903e93f15a7bba1023</sys_scope>
+        <sys_update_name>sys_security_acl_1d7042639393c3903e93f15a7bba1046</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-19 08:56:20</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
