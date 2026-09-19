@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="963aca6793d3c3903e93f15a7bba1056" extends="cmdb_ci" label="Ai Devices" max_length="40" name="x_2059119_techwi_0_ai_devices" type="collection">
+        <element label="Price" max_length="255" name="price" type="currency2"/>
+        <element choice="1" label="Device Category" max_length="255" name="device_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Environmental  Sensor" sequence="1" value="Environmental  Sensor"/>
+                <element inactive_on_update="false" label="Smart Hats" sequence="2" value="Smart Hats"/>
+                <element inactive_on_update="false" label="Environmental Sensors" sequence="0"/>
+                <element inactive_on_update="false" label="Safety Drone" sequence="3" value="Safety Drone"/>
+                <element inactive_on_update="false" label="Smart Hats"/>
+                <element inactive_on_update="false" label="Safety Drone"/>
+                <element inactive_on_update="false" label="AR Glasses" sequence="0"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Warranty" max_length="255" name="warranty" type="glide_date"/>
     </element>
 </database>

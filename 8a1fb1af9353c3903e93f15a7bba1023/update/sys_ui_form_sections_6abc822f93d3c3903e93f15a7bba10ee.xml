@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6abc822f93d3c3903e93f15a7bba10ee" sys_domain="global" table="x_2059119_techwi_0_ai_devices" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-19 09:49:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6bcc22f93d3c3903e93f15a7bba100d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2059119_techwi_0_ai_devices" name="x_2059119_techwi_0_ai_devices" sys_domain="global" view="Default view">6abc822f93d3c3903e93f15a7bba10ee</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_2059119_techwi_0_ai_devices" sys_domain="global" view="Default view">373a8a6793d3c3903e93f15a7bba10f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-19 09:49:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-19 09:49:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aebcc22f93d3c3903e93f15a7bba100e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_2059119_techwi_0_ai_devices" name="x_2059119_techwi_0_ai_devices" sys_domain="global" view="Default view">6abc822f93d3c3903e93f15a7bba10ee</sys_ui_form>
+            <sys_ui_section caption="Price and Warranty" display_value="Price and Warranty" name="x_2059119_techwi_0_ai_devices" sys_domain="global" view="Default view">22bc822f93d3c3903e93f15a7bba10ed</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-19 09:49:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_2059119_techwi_0_ai_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-19 09:49:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6abc822f93d3c3903e93f15a7bba10ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2059119_techwi_0_ai_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Techwithvamsi" source="x_2059119_techwi_0">8a1fb1af9353c3903e93f15a7bba1023</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Techwithvamsi">8a1fb1af9353c3903e93f15a7bba1023</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6abc822f93d3c3903e93f15a7bba10ee</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-19 09:49:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
