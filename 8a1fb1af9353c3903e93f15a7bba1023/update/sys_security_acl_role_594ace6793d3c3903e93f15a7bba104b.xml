@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-19 09:39:12</sys_created_on>
+        <sys_id>594ace6793d3c3903e93f15a7bba104b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2059119_techwi_0_ai_devices.x_2059119_techwi_0.admin</sys_name>
+        <sys_package display_value="Techwithvamsi" source="x_2059119_techwi_0">8a1fb1af9353c3903e93f15a7bba1023</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Techwithvamsi">8a1fb1af9353c3903e93f15a7bba1023</sys_scope>
+        <sys_security_acl display_value="x_2059119_techwi_0_ai_devices">994ace6793d3c3903e93f15a7bba1042</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_594ace6793d3c3903e93f15a7bba104b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-19 09:39:12</sys_updated_on>
+        <sys_user_role display_value="x_2059119_techwi_0.admin" name="x_2059119_techwi_0.admin">1e1fb1af9353c3903e93f15a7bba109b</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
